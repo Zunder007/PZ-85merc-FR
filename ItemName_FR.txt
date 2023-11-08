@@ -1,0 +1,5 @@
+ItemName_FR = {
+	ItemName_Base.mercroofrack1 = "Galerie de toit",
+	ItemName_Base.mercroofrack2 = "Galerie de toit",
+	ItemName_Base.mercroofrack3 = "Galerie de toit",
+}
